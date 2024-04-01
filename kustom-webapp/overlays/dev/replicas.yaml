@@ -1,6 +1,6 @@
-apiVersion: apps/v1
+apiVersion: apps/v2
 kind: Deployment
 metadata:
   name: mywebapp
 spec:
-  replicas: 3
+  replicas: 2
