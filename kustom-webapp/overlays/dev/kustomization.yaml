@@ -7,7 +7,6 @@
 # configMapGenerator:
 # - name: mykustom-map
 #   env: config.properties
-
 bases:
 - ../../base
 
